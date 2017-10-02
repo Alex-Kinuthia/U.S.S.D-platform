@@ -58,7 +58,6 @@ if(!empty($_POST) && !empty($_POST['phoneNumber'])){
 						$response .= " 2. Deposit Money\n";
 						$response .= " 3. Withdraw Money\n";
 						$response .= " 4. Send Money\n";
-						$response .= " 5. Buy Airtime\n";
 						$response .= " 6. Repay Loan\n";
 						$response .= " 7. Account Balance\n";
             $response .= " 8. Access Loans\n";
